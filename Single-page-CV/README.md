@@ -1,2 +1,1 @@
-This is a fronend poject from roamdmap.sh
-
+Single page CV project front end , using only HTML, and Address tags.
